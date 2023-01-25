@@ -1,4 +1,4 @@
-
+/*
      function calculate(){
 
        let month = prompt("Unesi redni broj mjeseca u godini: ");
@@ -24,4 +24,10 @@
             
        }
 
+       }*/
+
+       for (let i = 0; i < 100; i++) {
+           console.log("Hello World");
        }
+       
+
